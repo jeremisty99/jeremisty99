@@ -5,7 +5,8 @@
 
 ### I'm a rubbish
 
-- 🤡 寄
+![](https://img.shields.io/badge/HEBUT-062C86?style=flat-square) ![](https://img.shields.io/badge/OUC-1D85CA?style=flat-square)
+- 🤡 
 - 💬 Contact me with: 
   
   ![](https://img.shields.io/badge/865957991-EB1923?style=flat-square&logo=tencentqq&logoColor=000&labelColor=ecf0f1)
@@ -29,12 +30,11 @@
 
 ### 🏕️ **Most Yearning Tools&Platforms**
 
-![](https://img.shields.io/badge/-Mi%2013-ff6900?style=flat-square&logo=Xiaomi&logoColor=fff)
 ![](https://img.shields.io/badge/-MacBook-000000?style=flat-square&logo=Apple&logoColor=fff)
 
 ### ⏯️ **Next Plans**
 
-- 🕰️ 找个地方让我开摆
+- 🕰️ 找个地方开摆
 
 </details>
 
