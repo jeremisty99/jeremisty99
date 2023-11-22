@@ -6,7 +6,7 @@
 ### I'm a rubbish
 
 ![](https://img.shields.io/badge/HEBUT-062C86?style=flat-square) ![](https://img.shields.io/badge/OUC-1D85CA?style=flat-square)
-- 🤡 
+- 🤡 🐮 🐴
 - 💬 Contact me with: 
   
   ![](https://img.shields.io/badge/865957991-EB1923?style=flat-square&logo=tencentqq&logoColor=000&labelColor=ecf0f1)
@@ -28,13 +28,13 @@
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)
 
 
-### 🏕️ **Most Yearning Tools&Platforms**
+### 💰 **Most Yearning Tools**
 
-![](https://img.shields.io/badge/-MacBook-000000?style=flat-square&logo=Apple&logoColor=fff)
+![](https://img.shields.io/badge/-MacBook_Pro_36GB+1T-000000?style=flat-square&logo=Apple&logoColor=fff)
 
 ### ⏯️ **Next Plans**
 
-- 🕰️ 找个地方开摆
+- 🕰️ 毕业 开摆
 
 </details>
 
