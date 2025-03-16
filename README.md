@@ -9,7 +9,7 @@
 - 🤡 🐮 🐴
 - 💬 Contact me with: 
   
-  ![](https://img.shields.io/badge/865957991-EB1923?style=flat-square&logo=tencentqq&logoColor=000&labelColor=ecf0f1)
+  ![](https://img.shields.io/badge/865957991-EB1923?style=flat-square&logo=qq&logoColor=000&labelColor=ecf0f1)
 
 <details markdown='1'><summary>More</summary>
 
