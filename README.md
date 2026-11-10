@@ -2,7 +2,7 @@
 
 <img align="right" src="./profile/stats.svg" alt="GitHub Stats" />
 
-一名普通开发者，工作之余维护几个小项目。
+写点小脚本，让工作和生活少点麻烦。
 
 ![](https://img.shields.io/badge/HEBUT-062C86?style=flat-square) ![](https://img.shields.io/badge/OUC-1D85CA?style=flat-square)
 
@@ -24,6 +24,6 @@
 
 ### ⏯️ Now
 
-- 🕰️ 享受生活
+- 🕰️ 好好工作，享受生活
 
 </details>
